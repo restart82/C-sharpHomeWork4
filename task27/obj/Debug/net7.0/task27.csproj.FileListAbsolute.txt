@@ -1,0 +1,15 @@
+D:\GIT\C_sharp\C-sharpHomeWork4\task27\bin\Debug\net7.0\task27.exe
+D:\GIT\C_sharp\C-sharpHomeWork4\task27\bin\Debug\net7.0\task27.deps.json
+D:\GIT\C_sharp\C-sharpHomeWork4\task27\bin\Debug\net7.0\task27.runtimeconfig.json
+D:\GIT\C_sharp\C-sharpHomeWork4\task27\bin\Debug\net7.0\task27.dll
+D:\GIT\C_sharp\C-sharpHomeWork4\task27\bin\Debug\net7.0\task27.pdb
+D:\GIT\C_sharp\C-sharpHomeWork4\task27\obj\Debug\net7.0\task27.csproj.AssemblyReference.cache
+D:\GIT\C_sharp\C-sharpHomeWork4\task27\obj\Debug\net7.0\task27.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\C_sharp\C-sharpHomeWork4\task27\obj\Debug\net7.0\task27.AssemblyInfoInputs.cache
+D:\GIT\C_sharp\C-sharpHomeWork4\task27\obj\Debug\net7.0\task27.AssemblyInfo.cs
+D:\GIT\C_sharp\C-sharpHomeWork4\task27\obj\Debug\net7.0\task27.csproj.CoreCompileInputs.cache
+D:\GIT\C_sharp\C-sharpHomeWork4\task27\obj\Debug\net7.0\task27.dll
+D:\GIT\C_sharp\C-sharpHomeWork4\task27\obj\Debug\net7.0\refint\task27.dll
+D:\GIT\C_sharp\C-sharpHomeWork4\task27\obj\Debug\net7.0\task27.pdb
+D:\GIT\C_sharp\C-sharpHomeWork4\task27\obj\Debug\net7.0\task27.genruntimeconfig.cache
+D:\GIT\C_sharp\C-sharpHomeWork4\task27\obj\Debug\net7.0\ref\task27.dll
